@@ -6,3 +6,5 @@ gendiff:
 
 publish:
 	npm publish --dry-run
+
+	
