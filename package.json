@@ -1,0 +1,26 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "hexlet project difference",
+  "type": "module",
+  "homepage": "https://github.com/Viktoria2106/frontend-project-46#readme",
+  "bugs": {
+    "url": "https://github.com/Viktoria2106/frontend-project-46/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viktoria2106/frontend-project-46.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "^14.0.2"
+  },
+  "bin": {
+    "gendiff": "bin/gendiff.js"
+}
+}
